@@ -48,7 +48,7 @@ _Add screenshots here if you have them_
 
 ```
 ![Home Screen](screenshot1.png)
-![Map View](screenshot2.png)
+![Map View](image.png)
 ```
 
 ## 🛠️ Tech Stack
