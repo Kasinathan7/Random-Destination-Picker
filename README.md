@@ -48,7 +48,7 @@ _Add screenshots here if you have them_
 
 ```
 ![Home Screen](Picture1.png)
-![Home Screen](screenshots/Picture2.png)
+![Home Screen](https://raw.githubusercontent.com/Kasinathan7/Random-Destination-Picker/main/screenshots/Picture4.png)
 ![Home Screen](Picture3.png)
 ![Map View](Picture4.png)
 ![Map View](Picture5.png)
