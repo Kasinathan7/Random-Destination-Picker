@@ -46,13 +46,12 @@ https://www.google.com/maps/search/?api=1&query=<lat>,<long>
 
 _Add screenshots here if you have them_
 
-```
  ![Home Screen](screenshots/Picture1.png)
  ![Home Screen](screenshots/Picture4.png)
  ![Home Screen](screenshots/Picture3.png)
  ![Map View](screenshots/Picture4.png)
  ![Map View](screenshots/Picture5.png)
-```
+
 
 ## 🛠️ Tech Stack
 
